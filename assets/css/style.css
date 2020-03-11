@@ -1,6 +1,12 @@
 .bg-light {
   color: white;
 }
+
+body{
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 span.navbar-toggler-icon {
   color: white;
 }
