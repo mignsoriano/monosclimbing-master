@@ -43,7 +43,7 @@ h1 {
 p {
   font-family: "Raleway", sans-serif;
   text-align: justify;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .section {
@@ -159,6 +159,7 @@ footer i {
   p {
     font-family: "Raleway", sans-serif;
     margin-top: 20px;
+    font-size: 20px;
   }
   .formulario-login {
     width: 400px;
