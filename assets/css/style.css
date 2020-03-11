@@ -89,8 +89,8 @@ h2 {
   margin-top: 10px;
 }
 .mapa-google {
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
   
 }
 
@@ -172,7 +172,7 @@ footer i {
   }
 
   .mapa-google {
-    width: 600px;
+    width: 500px;
   }
 
   .donde-estamos {
